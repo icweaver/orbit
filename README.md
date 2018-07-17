@@ -2,7 +2,7 @@
 
 * The initial conditions defined in ```orb_plot``` can be adjusted in real time under  **Simulation Viewer** .
 * The position and velocity are tabulated and saved in real time in a dat file named ```orb.dat``` in the same directory as this notebook and can be viewed in **Taking a look at the data**. A few diagnostic plots are generated from the data as well.
-* A movie of the evolution of the orbit can also be made under **Movie Maker**.
+* A movie of the evolution of the orbit can also be made under **Movie Maker**. \*beware of numerical error\*
 
 Happy Coding!
 
